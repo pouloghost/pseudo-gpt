@@ -1,5 +1,5 @@
 # Cluster and Summary
-A two step map-reduce process for extract summary for seperate items such as exam questions.
+A two step map-reduce process for extracting summary of seperate items such as exam questions.
 
 p.s. Also a demonstration of array declaration.
 
