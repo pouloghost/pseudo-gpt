@@ -1,7 +1,5 @@
 This is a Prompt Repo. You can use the prompts in prompts folder directly. May be a langchain wrapper later on.
 
-***GPT 4 only***
-
 # Core concept
 GPT-4 is pretty good at inteprating code, as shown in "sparks of artificial general intelligence early experiments with gpt-4" by Microsoft. And ***code is a much more efficient and precise way of transmitting information.*** So I proposed a cue for utilizing GPT-4 to execute pseudocode.
 
